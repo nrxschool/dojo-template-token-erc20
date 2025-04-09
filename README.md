@@ -30,6 +30,14 @@
 - Eliza sugere transações com base em hábitos (ex.: "Você sempre envia 5 tokens para X às sextas. Quer repetir?").
 
 ## Opening Video:
-
+- 
 
 ## Tutorial:
+- 
+
+## Links úteis
+
+-
+-
+-
+-
