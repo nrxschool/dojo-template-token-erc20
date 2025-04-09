@@ -1,6 +1,6 @@
 ## Challenger:
 
-### 4: Smartcontracts Challenger: Token ERC20 + ElizaOS
+### 4: Smartcontracts Challenger: Token ERC20
 
 > [!CAUTION]
 > must have
